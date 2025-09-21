@@ -2,7 +2,7 @@
 
 > *“From the heart, For your mind”*  
 
-🌐 **Live Demo :** [DilSe AI](https://dilse-fbmdsg7xq-prishag407-gmailcoms-projects.vercel.app/)  
+🌐 **Live Demo :** [DilSe AI](https://dilse-ai.vercel.app/)  
 
 ---
 
